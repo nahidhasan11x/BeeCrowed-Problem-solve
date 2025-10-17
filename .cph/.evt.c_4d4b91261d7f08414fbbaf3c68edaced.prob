@@ -1,0 +1,1 @@
+{"name":"Local: evt","url":"d:\\BeeCrowed\\evt.c","tests":[{"id":1760690646194,"input":"Dia 5\n08 : 12 : 23\nDia 9\n06 : 13 : 23\n","output":"3 dia(s)\n22 hora(s)\n1 minuto(s)\n0 segundo(s)\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\BeeCrowed\\evt.c","group":"local","local":true}
